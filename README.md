@@ -38,6 +38,22 @@ I strategically back disruptive startups in AI, eCommerce, and Data Science — 
   <img alt="Data Science" src="https://img.shields.io/badge/Data%20Science-4DB6AC?logo=pandas&logoColor=white"/>
 </p>
 
+## 📊 GitHub Statistics
+
+<!-- Total commits + GitHub stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deivst&show_icons=true&count_private=true&include_all_commits=true)
+
+<!-- Top languages used -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivst&layout=compact)
+
+<!-- GitHub streak (contribuciones diarias) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deivst)
+
+<!-- Repo Activity Badges -->
+![Total Repositories](https://img.shields.io/github/repos/Deivst?label=Public%20Repos)
+![Total Stars](https://img.shields.io/github/stars/Deivst?label=Total%20Stars)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/Deivst?label=Monthly%20Commits)
+
 ---
 
 ## 🤝 Join Our Journey
