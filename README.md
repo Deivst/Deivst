@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://catuh.com"><img alt="Catuh.com" src="https://img.shields.io/badge/Catuh.com-Visit-blue?logo=google-chrome&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/deivy-stiven-hernandez-casta%C3%B1eda-32646271/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin"/></a>
+  <a href="[https://www.linkedin.com/in/deivy-stiven-hernandez-casta%C3%B1eda-32646271/]()"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin"/></a>
+logo=linkedin"/></a>
 </p>
 
 ---
